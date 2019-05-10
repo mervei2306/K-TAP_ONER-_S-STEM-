@@ -1,0 +1,11 @@
+C:\Users\nadid_000\Desktop\Projelerim\KİTAP_ONERİ_SİSTEMİ\KİTAP_ONERİ_SİSTEMİ\obj\Debug\KİTAP_ONERİ_SİSTEMİ.csprojResolveAssemblyReference.cache
+C:\Users\nadid_000\Desktop\Projelerim\KİTAP_ONERİ_SİSTEMİ\KİTAP_ONERİ_SİSTEMİ\obj\Debug\KİTAP_ONERİ_SİSTEMİ.Form2.resources
+C:\Users\nadid_000\Desktop\Projelerim\KİTAP_ONERİ_SİSTEMİ\KİTAP_ONERİ_SİSTEMİ\obj\Debug\KİTAP_ONERİ_SİSTEMİ.Properties.Resources.resources
+C:\Users\nadid_000\Desktop\Projelerim\KİTAP_ONERİ_SİSTEMİ\KİTAP_ONERİ_SİSTEMİ\obj\Debug\KİTAP_ONERİ_SİSTEMİ.csproj.GenerateResource.Cache
+C:\Users\nadid_000\Desktop\Projelerim\KİTAP_ONERİ_SİSTEMİ\KİTAP_ONERİ_SİSTEMİ\bin\Debug\KİTAP_ONERİ_SİSTEMİ.exe
+C:\Users\nadid_000\Desktop\Projelerim\KİTAP_ONERİ_SİSTEMİ\KİTAP_ONERİ_SİSTEMİ\bin\Debug\KİTAP_ONERİ_SİSTEMİ.pdb
+C:\Users\nadid_000\Desktop\Projelerim\KİTAP_ONERİ_SİSTEMİ\KİTAP_ONERİ_SİSTEMİ\obj\Debug\KİTAP_ONERİ_SİSTEMİ.exe
+C:\Users\nadid_000\Desktop\Projelerim\KİTAP_ONERİ_SİSTEMİ\KİTAP_ONERİ_SİSTEMİ\obj\Debug\KİTAP_ONERİ_SİSTEMİ.pdb
+C:\Users\nadid_000\Desktop\Projelerim\KİTAP_ONERİ_SİSTEMİ\KİTAP_ONERİ_SİSTEMİ\obj\Debug\KİTAP_ONERİ_SİSTEMİ.Form3.resources
+C:\Users\nadid_000\Desktop\kitap_öneri_sistemi\KİTAP_ONERİ_SİSTEMİ\KİTAP_ONERİ_SİSTEMİ\obj\Debug\KİTAP_ONERİ_SİSTEMİ.exe
+C:\Users\nadid_000\Desktop\kitap_öneri_sistemi\KİTAP_ONERİ_SİSTEMİ\KİTAP_ONERİ_SİSTEMİ\obj\Debug\KİTAP_ONERİ_SİSTEMİ.pdb
